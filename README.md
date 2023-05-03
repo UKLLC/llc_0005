@@ -6,4 +6,4 @@ Inflammation is the process of the body fighting against infection and injury. I
 - people with inflammatory disorders and allergies should receive a booster vaccine
 - existing medications for inflammatory disorders and allergies could be used to treat or prevent long Covid
 
-Dylan Williams
+Dylan Williams dylan.williams@ucl.ac.uk
